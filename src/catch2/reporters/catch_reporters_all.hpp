@@ -36,5 +36,6 @@
 #include <catch2/reporters/catch_reporter_tap.hpp>
 #include <catch2/reporters/catch_reporter_teamcity.hpp>
 #include <catch2/reporters/catch_reporter_xml.hpp>
+#include <catch2/reporters/catch_reporter_exercism.hpp>
 
 #endif // CATCH_REPORTERS_ALL_HPP_INCLUDED
